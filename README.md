@@ -10,6 +10,7 @@ The Eye Tracking System is a hackathon project developed during Week 2 (WK2) to 
 - Support for custom eye-tracking datasets and models.
 
 ## Project Structure
+```
 Hackathon_WK2/
 ├── api/                # API-related files (e.g., endpoints for eye tracking data)
 ├── eye_tracking/       # Core eye-tracking logic and utilities
@@ -20,7 +21,7 @@ Hackathon_WK2/
 ├── README.md           # Project documentation
 ├── requirements.txt    # Python dependencies
 └── myenv/              # Virtual environment (auto-generated, not committed)
-
+```
 ## Prerequisites
 - Python 3.8 or higher
 - Virtualenv (recommended for dependency management)
