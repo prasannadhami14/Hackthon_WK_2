@@ -32,7 +32,7 @@ Follow these steps to set up the project locally:
    ```bash
    git clone https://github.com/prasannadhami14/Hackthon_WK_2.git
    cd Hackathon_WK2
-   Create a Virtual Environment:
+
 2. **Create a Virtual Environment**: 
     ```bash 
     python -m venv myenv
