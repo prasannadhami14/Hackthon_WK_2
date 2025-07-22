@@ -14,8 +14,8 @@ Hackathon_WK2/
 ├── api/                # API-related files (e.g., endpoints for eye tracking data)
 ├── eye_tracking/       # Core eye-tracking logic and utilities
 │   ├── tracker.py     # Main Python script for eye tracking
-├── frontend/           # Frontend interface (e.g., HTML, CSS, JS)
-├── model/              # Machine learning model files (e.g., weights, configuration)
+├── frontend/           # Frontend interface (e.g.Streamlit)
+├── model/              # Machine learning model files
 ├── .gitignore          # Git ignore file to exclude unnecessary files
 ├── README.md           # Project documentation
 ├── requirements.txt    # Python dependencies
