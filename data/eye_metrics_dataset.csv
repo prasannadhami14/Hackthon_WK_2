@@ -1,0 +1,7 @@
+blink_rate,avg_blink_duration,gaze_stability,screen_distance
+18,0.25,0.85,30
+22,0.18,0.55,20
+10,0.4,0.9,40
+25,0.15,0.5,25
+9,0.45,0.95,42
+16,0.3,0.8,35
