@@ -1,0 +1,14 @@
+Eye Tracking Metrics (2025-07-25 22:14:13):
+==================================================
+Metric                    Value      Unit      
+==================================================
+Blink Rate                15.7       blinks/min
+Avg Blink Duration        400.7      ms
+Gaze Stability            22.8       %
+Screen Distance           19.7       cm
+Left Eye Color            Green     
+Right Eye Color           Green     
+==================================================
+
+Prediction Result (2025-07-25 22:14:13):
+==================================================
